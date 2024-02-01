@@ -4,6 +4,7 @@
  * Purpose: Lecture Activity 3 Code
  */
 
+
 namespace COMP003A.LectureActivity3
 {
     internal class Program
